@@ -275,9 +275,8 @@
 	"lives": [{
 			"name": "电视直播",
 			"type": 0,
-			"url": "http://home.jundie.top:81/Cat/tv/live.txt",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt",
 			"playerType": 1,
-			"ua": "okhttp/3.12.13",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
