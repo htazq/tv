@@ -276,12 +276,12 @@
 			"name": "常用直播源",
 			"type": 0,
 			"playerType": 1,
-			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/yizhi.txt",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "所有已知频道",
+			"name": "常用直播源2",
 			"type": 0,
 			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt",
 			"playerType": 1,
