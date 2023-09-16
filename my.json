@@ -276,14 +276,14 @@
 			"name": "常用直播源",
 			"type": 0,
 			"playerType": 1,
-			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6plus.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
 			"name": "常用直播源2",
 			"type": 0,
-			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/htazq/tv/main/live.txt1",
 			"playerType": 1,
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
