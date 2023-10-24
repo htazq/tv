@@ -1,6 +1,15 @@
 {
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad",
 	"sites": [{
+			"key": "阿里┃首选",
+			"name": "💧阿里┃4K",
+			"type": 3,
+			"api": "csp_WoGG",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tvfan.xxooo.cf/"
+		}, {
 			"key": "csp_Czsapp",
 			"name": "📔厂长┃直连",
 			"type": 3,
@@ -10,18 +19,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "阿里┃首选",
-			"name": "💧阿里┃4K",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://tvfan.xxooo.cf/"
-		},
-		{
+		}, {
 			"key": "csp_Lib",
 			"name": "🌟利奥┃直连",
 			"type": 3,
